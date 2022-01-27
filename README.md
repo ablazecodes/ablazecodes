@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://image.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" style="width: 626px; user-select: auto;"/>
+ <img width="100px" src="https://image.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" style="width: 450px; user-select: auto;"/>
  <h2 align="center">Hello! I'm Shreya</h2>
  <p align="center">A coding enthusiast and learner from the land of diversity, India</p>
 
