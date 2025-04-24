@@ -8,9 +8,8 @@
 
 - ☕ I convert <b>caffeine</b> into <b>code</b>  
 - 📜 I'm currently learning <b>Data Structures & Algorithms</b>
-- ⏳ Fascinatingly I get to know something nerdy every single day
+- ⏳ Fascinatingly, I get to know something nerdy every single day
 - 📚 I have a very healthy obsession with <b>fantasy</b> and <b>sci-fi</b> books
-- 📖 Graduating <b>2024</b> 
 - 🖋️ Reach me via email <a href="mailto:shreyashuks@gmail.com"><b>shreyashuks@gmail.com</b></a>
  
 
@@ -22,7 +21,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width = "100", height = auto/> </a> 
     <a style="padding-right:8px;" href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width = "100", height = auto/></a> 
     <a style="padding-right:8px;" href="https://devdocs.io/c/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width = "100", height = auto/> </a>
-    <a style="padding-right:8px;" href="https://devdocs.io/c/" target="_blank"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width = "100", height = auto/> </a>
+    <a style="padding-right:8px;" href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width = "100", height = auto/> </a>
     <a style="padding-right:8px;" href="https://devdocs.io/c/" target="_blank"><img src="https://img.icons8.com/?size=100&id=GrdedbyxGSwT&format=png&color=000000" width = "100", height = auto/> </a>
 
 ## Connect with me:
@@ -30,14 +29,6 @@
 
 <a href="https://www.linkedin.com/in/ablazecodes/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="100" height="auto" alt="LinkedIn" />
-</a>
-
-<a href="https://www.instagram.com/thegalaxydreamer/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="100" height="auto" alt="Instagram" />
-</a>
-
-<a href="https://bindedbyletters.blogspot.com/">
-    <img src="https://img.icons8.com/color/48/000000/blogger.png" width="100" height="auto" alt="Blogger" />
 </a>
 
 <a href="mailto:shreyashuks@gmail.com">
